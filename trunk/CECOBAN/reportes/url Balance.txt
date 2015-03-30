@@ -1,0 +1,1 @@
+http://monxrep.monex.com.mx:7001/ReportesMonexNT/ReportesDinamicos.jsp?Param1Parametro=fCreacion&Param1Tipo=String&Param1Valor=18/11/2009&PDF=S&idActivo=1&NombreArchivo=CECOBAN_BalanceCuentaConcentradora.rpt&DB=CSCORE&NombreTablaDinamica=&Propietario=&RefreshMensual=N

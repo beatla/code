@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Lib/BcoLiqCCUSDRecursos.jar"/>
+	<classpathentry kind="lib" path="Lib/classes12.jar"/>
+	<classpathentry kind="lib" path="Lib/Comunes.jar"/>
+	<classpathentry kind="lib" path="Lib/datetimepicker.jar"/>
+	<classpathentry kind="lib" path="Lib/dsgrid.jar"/>
+	<classpathentry kind="lib" path="Lib/jdom.jar"/>
+	<classpathentry kind="lib" path="Lib/jgoodies-uif-lite.jar"/>
+	<classpathentry kind="lib" path="Lib/mdate.jar"/>
+	<classpathentry kind="lib" path="Lib/MonexSwing.jar"/>
+	<classpathentry kind="lib" path="Lib/sxswing.jar"/>
+	<classpathentry kind="lib" path="Lib/jgoodies/apple-extensions.jar"/>
+	<classpathentry kind="lib" path="Lib/jgoodies/binding-0.9.15.jar"/>
+	<classpathentry kind="lib" path="Lib/jgoodies/forms-1.0.4.jar"/>
+	<classpathentry kind="lib" path="Lib/jgoodies/looks-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lamz/Documents/workspace/cecoban/CECOBAN/Lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="Lib/javax.ejb.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
